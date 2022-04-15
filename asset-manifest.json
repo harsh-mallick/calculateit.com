@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/calculateit.com/static/css/main.63fd9f1f.css",
-    "main.js": "/calculateit.com/static/js/main.e445dd8d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/calculateit.com/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/calculateit.com/static/js/main.e523e7f9.js",
+    "static/js/787.397fd6c1.chunk.js": "/calculateit.com/static/js/787.397fd6c1.chunk.js",
     "static/media/pointer.png": "/calculateit.com/static/media/pointer.07f2c71929996e3b9768.png",
     "index.html": "/calculateit.com/index.html",
     "main.63fd9f1f.css.map": "/calculateit.com/static/css/main.63fd9f1f.css.map",
-    "main.e445dd8d.js.map": "/calculateit.com/static/js/main.e445dd8d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/calculateit.com/static/js/787.28cb0dcd.chunk.js.map"
+    "main.e523e7f9.js.map": "/calculateit.com/static/js/main.e523e7f9.js.map",
+    "787.397fd6c1.chunk.js.map": "/calculateit.com/static/js/787.397fd6c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63fd9f1f.css",
-    "static/js/main.e445dd8d.js"
+    "static/js/main.e523e7f9.js"
   ]
 }
